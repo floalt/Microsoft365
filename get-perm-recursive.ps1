@@ -1,4 +1,4 @@
-# Rekursive Berechtigungen für einen bestimmten Benutzer in Shared Mailboxes anzeigen
+# Rekursive Berechtigungen fï¿½r einen bestimmten Benutzer in Shared Mailboxes anzeigen
 # author: flo.alt@fa-netz.de
 # Ver 0.8
  
