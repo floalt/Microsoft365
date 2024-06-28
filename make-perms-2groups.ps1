@@ -7,7 +7,7 @@
 
 param(
 [string]$mailbox,
-[string]$group,
+[string]$group
 )
 
 # Sprache der Ordnernamen:
